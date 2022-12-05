@@ -60,15 +60,15 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/estebanfex/virtualBoatAI/boatAI
+   git clone https://github.com/estebanfex/vaccinationApp/vaccinationApp
    ```
-2. Install Turtle
+2. Install dependencies
    ```sh
-   pip install PythonTurtle
+   pip install -r requirements.txt
    ```
-3. Run the machine learning algorithm
+3. Run the micro web framework flask
    ```sh
-   python DQN_agentBoat.py
+   python APIVaxAPP.py
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -106,7 +106,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Copyright (C) 2021 Universidad Politécnica de Cataluña and Esteban Chacón
+Copyright (C) 2022 estebanfex
   
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -130,20 +130,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 Esteban Chacon - estebanfex@gmail.com
 
-Project Link: [https://github.com/estebanfex/virtualBoatAI](https://github.com/estebanfex/virtualBoatAI)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Thanks for contributing to bring technology to all!
-
-* [The Raspberry Pi Foundation](https://www.raspberrypi.org)
-* [The Internet of Things with ESP32](http://esp32.net/)
-* [Python.org](https://www.python.org/)
+Project Link: [https://github.com/estebanfex/vaccinationApp](https://github.com/estebanfex/vaccinationApp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
