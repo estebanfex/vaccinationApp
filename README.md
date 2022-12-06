@@ -62,11 +62,19 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/estebanfex/vaccinationApp/vaccinationApp
    ```
-2. Install dependencies
+2. Install pipreqs
+   ```sh
+   pip install pipreqs
+   ```
+3. Install all dependencies with pipreqs
    ```sh
    pip install -r requirements.txt
    ```
-3. Run the micro web framework flask
+4. Run the SQL sentences in a database 
+   ```sh
+   python APIVaxAPP.py
+   ```
+5. Run the micro web framework flask
    ```sh
    python APIVaxAPP.py
    ```
@@ -78,7 +86,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this space to show useful examples of how a project can be used.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
