@@ -32,7 +32,6 @@ Vaccination APP developed in python with Flask
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#test-api-with-swagger">Test API with swagger</a></li>
     <li><a href="#unit-test">Unit test</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -99,15 +98,6 @@ Run the next command
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-   
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
