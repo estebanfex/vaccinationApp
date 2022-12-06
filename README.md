@@ -45,7 +45,7 @@ Vaccination APP developed in python with Flask
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project implements the backend of a vaccination app that registers a 
+This project implements the backend of a vaccination app that registers the vaccination info of a company employees.
 
 
 <!-- GETTING STARTED -->
@@ -78,6 +78,14 @@ _Below is an example of how you can instruct your audience on installing and set
 5. Run the micro web framework flask
    ```sh
    python APIVaxAPP.py
+   ```
+
+
+### Test API with swagger
+
+Use the next file in a swagger editor
+   ```sh
+   swaggerAPIVax.yaml
    ```
 
 
