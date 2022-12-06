@@ -33,7 +33,8 @@ Vaccination APP developed in python with Flask
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#Test-API-with-swagger">Usage</a></li>
+    <li><a href="#test-api-with-swagger">Test API with swagger</a></li>
+    <li><a href="#unit-test">Unit test</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
