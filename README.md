@@ -92,7 +92,7 @@ Use the next file in a swagger editor
 
 ### Unit test
 
-Run the next command
+Run the next command in the project directory
    ```sh
    pytest -q testAPIVaxAPP.py
    ```
