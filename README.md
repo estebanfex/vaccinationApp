@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can instruct your audience on installing and setting up your app._
 
 1. Clone the repo
    ```sh
@@ -70,26 +70,33 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    pip install -r requirements.txt
    ```
-4. Run the SQL sentences in a database 
+4. Run the SQL sentences in a database from the files below
    ```sh
-   python APIVaxAPP.py
+   DBvaccines.sql
+   DBvacunas.sql
    ```
 5. Run the micro web framework flask
    ```sh
    python APIVaxAPP.py
    ```
 
+
+### Unit test
+
+Run the next command
+   ```sh
+   pytest -q testAPIVaxAPP.py
+   ```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
+   
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 
