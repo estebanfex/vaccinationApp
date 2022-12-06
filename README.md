@@ -76,7 +76,11 @@ _Below is an example of how you can instruct your audience on installing and set
    DBvaccines.sql
    DBvacunas.sql
    ```
-5. Run the micro web framework flask
+5. Modify the file below with the username an password to access the database.
+   ```sh
+   DataBase.ini
+   ```
+6. Run the micro web framework flask
    ```sh
    python APIVaxAPP.py
    ```
